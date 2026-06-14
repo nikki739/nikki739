@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nikita Oli 👋
 
-<!--
-**nikki739/nikki739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst pursuing MCA.
 
-Here are some ideas to get you started:
+## Skills
+- SQL (PostgreSQL, MySQL)
+- Power BI
+- Python
+- Pandas
+- DAX
+- Power Query
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- E-Commerce Product & Customer Analytics
+- Financial Fraud Detection Analysis
+- Digital Payment Trends Analysis
+- YouTube Trending Video Analysis
+
+## Contact
+Email: nikitaoli82@gmail.com
