@@ -1,20 +1,17 @@
 # Hi, I'm Nikita Oli 👋
 
-Aspiring Data Analyst pursuing MCA.
+Hi, I'm Nikita Oli 👋
 
-## Skills
-- SQL (PostgreSQL, MySQL)
-- Power BI
-- Python
-- Pandas
-- DAX
-- Power Query
+Aspiring Data Analyst skilled in SQL, Power BI, and Python, with experience in building analytics dashboards and business insight solutions.
 
-## Featured Projects
-- E-Commerce Product & Customer Analytics
-- Financial Fraud Detection Analysis
-- Digital Payment Trends Analysis
-- YouTube Trending Video Analysis
+🔹 SQL (PostgreSQL, MySQL)
+🔹 Power BI & DAX
+🔹 Python (Pandas, Matplotlib)
+🔹 Data Cleaning & EDA
+🔹 Dashboard Development
 
-## Contact
-Email: nikitaoli82@gmail.com
+Featured Projects:
+📊 E-Commerce Product & Customer Analytics
+🛡️ Financial Fraud Detection Analysis
+💳 Digital Payment Trends Analysis
+📺 YouTube Trending Video Analysis
